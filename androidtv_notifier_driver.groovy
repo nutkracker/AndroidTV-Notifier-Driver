@@ -1,5 +1,5 @@
 /*
- *  AndroidTV Notifier Driver    v0.1
+ *  AndroidTV Notifier Driver    v0.2
  *
  *  Copyright 2021 @nutcracker
  *
@@ -31,7 +31,7 @@ import java.net.URLEncoder;
 
 def version()
 {
-    "v0.1"
+    "v0.2"
 } 
  
 metadata
